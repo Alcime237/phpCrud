@@ -1,0 +1,3 @@
+Ce mini projet met en exergue les differents codes du crud en PHP en l'utilisant faudra l'adapter a votre BD 
+Merci pour le soutient  
+dev Alcime Koosner (alcimekoosner20@gmail.com) pour ceux qui veulent me contacter...
